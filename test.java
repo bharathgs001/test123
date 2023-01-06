@@ -2,11 +2,9 @@ import java.util.Scanner;
 
 public class test {
     public static void main(String[] args) {
-    	Scanner sc = new Scanner(System.in);
-
-        int i = sc.nextInt();
+    	int i =0;
     	
-    	String a = pk.next();t
+    	String a = pk.next();
     	
     }
 }
