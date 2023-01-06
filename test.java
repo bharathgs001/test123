@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class test {
     public static void main(String[] args) {
-    	Scanner sc = new Scanner(System.in);
-
-        int i = sc.nextInt();
+    	Scanner pk = new Scanner(System.in);
     	
     	String a = pk.next();t
+    	
+    	omy fs;
     	
     }
 }
